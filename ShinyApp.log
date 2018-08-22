@@ -1,0 +1,126 @@
+library paths:
+... D:/Users/703128007/Desktop/Standalone Volume Predictor App/Standalone Volume Predictor App/dist/R-Portable/App/R-Portable/library
+Loading required package: shiny
+Loading required package: methods
+
+Listening on http://127.0.0.1:4593
+Browser path: D:\Users\703128007\Desktop\Standalone Volume Predictor App\Standalone Volume Predictor App\dist\GoogleChromePortable\App\Chrome-bin\chrome.exe
+
+Attaching package: 'zoo'
+
+The following objects are masked from 'package:base':
+
+    as.Date, as.Date.numeric
+
+Loading required package: forecast
+
+Attaching package: 'data.table'
+
+The following objects are masked from 'package:reshape2':
+
+    dcast, melt
+
+The following objects are masked from 'package:xts':
+
+    first, last
+
+
+Attaching package: 'DT'
+
+The following objects are masked from 'package:shiny':
+
+    dataTableOutput, renderDataTable
+
+
+Attaching package: 'plotly'
+
+The following object is masked from 'package:ggplot2':
+
+    last_plot
+
+The following object is masked from 'package:stats':
+
+    filter
+
+The following object is masked from 'package:graphics':
+
+    layout
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:data.table':
+
+    between, first, last
+
+The following objects are masked from 'package:xts':
+
+    first, last
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'mondate'
+
+The following objects are masked from 'package:data.table':
+
+    month, quarter, year
+
+The following object is masked from 'package:base':
+
+    as.difftime
+
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
+Warning in merge.xts(..., all = all, fill = fill, suffixes = suffixes) :
+  NAs introduced by coercion
